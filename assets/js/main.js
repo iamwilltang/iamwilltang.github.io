@@ -33,7 +33,7 @@ NOTE: This is the custom jQuery file for the template
       
         /*======== Smoothscroll js ===========*/
         $(function() {
-          $('a.smoth-scroll').on('click', function(event) {
+          $('a.smooth-scroll').on('click', function(event) {
             var $anchor = $(this);
             $('html, body').stop().animate({
                 scrollTop: $($anchor.attr('href')).offset().top - 0
