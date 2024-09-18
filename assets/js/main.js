@@ -73,7 +73,8 @@ NOTE: This is the custom jQuery file for the template
         var element = $(".element");
         $(function() {
             element.typed({
-                strings: ["Web Designer.", "Graphic Designer.", "Freelancer."],
+                strings: ["Student.", "Creator.", "Innovator."],  
+                /* These are the descriptors underneath my name upon opening the website */
                 typeSpeed: 100,
                 loop: true,
             });
