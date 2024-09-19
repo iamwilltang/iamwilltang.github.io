@@ -246,7 +246,7 @@ a{
 	font-size: 32px;
 	font-weight: 800;
 	letter-spacing: 3px;
-	margin-top: 150px;  /* This changes how far down my name is */
+	margin-top: 33px;  /* This changes how far down my name on the top left is */
 	text-transform: uppercase;
 	-webkit-transition: all 0.4s ease-in-out 0s;
 	transition: all 0.4s ease-in-out 0s;
